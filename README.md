@@ -1,0 +1,2 @@
+# plants
+Landing page of a site that offers its services for growing plants in the garden and caring for them
